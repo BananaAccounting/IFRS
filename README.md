@@ -5,7 +5,7 @@ Repository for templates, documentation and extensions for the international IFR
 
 ## Structure
 
--Image_Docmuentation
+-Image_Documentation
 
 This repository contain the list of image that needed to website.
 
